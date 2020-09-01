@@ -12,7 +12,7 @@
 
 [Aplicação Go](src)
 
-### CI no Google Cloud Plataform
+### CI no Google Cloud Plataform (GCP)
 
 Para executar o pipeline, criar uma secret no Gerenciador de secrets do GCP com o nome 'dh-secret-data', [como exemplificado na documentação.](https://cloud.google.com/cloud-build/docs/securing-builds/use-encrypted-secrets-credentials#creating_a_cloud_kms_keyring_and_cryptokey)
 
